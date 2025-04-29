@@ -11,7 +11,6 @@ The Parking Lot Management System is a Java-based application that manages a par
 - **Multi-floor Parking:** The parking lot has 3 floors with different capacities for handicapped, bicycle, car, EV car, and truck parking spots.
 - **Payment Options:** Customers can pay parking charges in Indian Rupees (₹), US Dollars ($), or Euros (€) using different payment modes (Cash, Card, Scan).
 - **Electric Vehicle Charging:** EV car parking spots have electric panels for vehicle charging, with an additional charge. 🔌
-- **Real-time Availability:** Attendants can monitor real-time availability of parking spots for different vehicle types on a display board. 🚥
 - **Exit Gate Assignment:** Attendants assign exit gates based on vehicle types for customer safety and convenience. 🚪
 
 ## 📚 Classes and Interfaces
